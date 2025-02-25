@@ -8,22 +8,22 @@
     filtro: 'todas',
     tarefaTemp: '',
     tarefas: [
-      {
-        titulo: 'Estudar ES6',
-        finalizada: false,
-      },
-      {
-        titulo: 'Estudar JavaScript',
-        finalizada: false,
-      },
-      {
-        titulo: 'Estudar CSS',
-        finalizada: false,
-      },
-      {
-        titulo: 'Ir para a academia',
-        finalizada: true,
-      }
+              {
+                titulo: 'Estudar ES6',
+                finalizada: false,
+              },
+              {
+                titulo: 'Estudar JavaScript',
+                finalizada: false,
+              },
+              {
+                titulo: 'Estudar CSS',
+                finalizada: false,
+              },
+              {
+                titulo: 'Ir para a academia',
+                finalizada: true,
+              }
     ]  
   })
 
